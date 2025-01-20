@@ -23,11 +23,11 @@ cd web-genie-ai
 Create virtual environment:
 ```bash
 # Create virtual environment
-conda create -name venv python=3.12
+python3 -m venv venv
 ```
 ```bash
 # Activate virtual environment
-conda activate venv
+source venv/bin/activate
 ```
 Miner Registration:
 ```bash
