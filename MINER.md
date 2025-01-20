@@ -11,7 +11,7 @@ We recommend testing your miner on Testnet (SN 214) before deploying to mainnet
 ### Environment Setup
 Install pm2:
 ```bash
-npm install pm2 -g
+apt update npm && apt install npm && install pm2 -g
 ```
 
 Clone the repository:
